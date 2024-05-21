@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\陈祥烨\Desktop\数据结构实验\实验六\第一题\Graph.h(44,30): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+C:\Users\陈祥烨\Desktop\数据结构实验\实验六\第一题\Graph.h(44,62): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+  第一题.vcxproj -> C:\Users\陈祥烨\Desktop\数据结构实验\实验六\第一题\x64\Debug\第一题.exe

@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Generalized List广义表类.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  TutorialSystem.cpp
+C:\Users\陈祥烨\Desktop\数据结构实验\2023.5.5 实验四\第二题\TutorialSystem.cpp(1,1): warning C4828: 文件包含在偏移 0x232b 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  test.cpp
+  正在生成代码...
+C:\Users\陈祥烨\Desktop\数据结构实验\2023.5.5 实验四\第二题\TutorialSystem.cpp(140): warning C4715: “TutorialSystem::insert”: 不是所有的控件路径都返回值
+  Generalized List广义表类.vcxproj -> C:\Users\陈祥烨\Desktop\数据结构实验\2023.5.5 实验四\第二题\x64\Debug\导师制.exe

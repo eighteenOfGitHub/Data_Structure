@@ -1,0 +1,2 @@
+D:\文件图片影视\专业学习\大一下\数据结构\c++练习\重要工具\Generalized List广义表类\x64\Debug\Generalized List广义表类.exe
+C:\Users\陈祥烨\Desktop\数据结构实验\2023.5.5 实验四\第二题\x64\Debug\导师制.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\陈祥烨\Desktop\数据结构实验\2023.3.28 实验三\一题 计算器类\main.cpp(34,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\陈祥烨\Desktop\数据结构实验\2023.3.28 实验三\一题 计算器类\main.cpp(151): warning C4715: “get_tempresult”: 不是所有的控件路径都返回值
+  第五题 计算器类.vcxproj -> C:\Users\陈祥烨\Desktop\数据结构实验\2023.3.28 实验三\一题 计算器类\x64\Debug\第五题 计算器类.exe
